@@ -1,1 +1,2 @@
 I'm very excited to be making progress on the Odin Project!
+Testing git commit through studio code
